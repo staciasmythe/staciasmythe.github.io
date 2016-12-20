@@ -1,0 +1,28 @@
+body {
+  background-color: #deedee;
+  font-family: 'Slabo 10px', serif;
+  color: 	#11299f;
+}
+img {
+  width:125px;
+  padding-top: 15px;
+  margin:0 auto;
+  display:block;
+}
+div.uba {
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom:10px;
+}
+div.beebs {
+  padding-left:130px;
+  padding-top:20px;
+  padding-bottom:10px;
+}
+div.beebs:hover {
+  color: #f00;
+  font-size: 20px;
+}
+p {
+  margin: 10px;
+}
